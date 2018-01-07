@@ -1,4 +1,5 @@
 {
-  "name": "24Hr room service",
-  "order": 4
+  "image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1400&photoreference=CmRaAAAAHdztp1FekcZ9iuQYnRFYhvR62t3-_qb2LmRHrjt5WJ9tvaHIu7pkkfjRvT1DqmKas0liKaSjekZojiX3MNeE3IH-E8x4ZdEaH7zqH0Xdcr27rS2yBKNZFRFtvSoqzTufEhAhGTk67c9S4BuB6V3CKoEXGhQNzz3XRqN-QPdnlB9hKQfNyyqMKA&sensor=false&key=AIzaSyCT16upP_-vtI68MBa2YGCmdSoRM73r4nY",
+  "order": 4,
+  "hidden": false
 }
